@@ -1,5 +1,3 @@
-package org.example;
-
 import java.util.List;
 
 public interface CarRepository extends Repository<Integer,Car> {

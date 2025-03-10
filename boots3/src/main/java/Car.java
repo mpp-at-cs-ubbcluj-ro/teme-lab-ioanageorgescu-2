@@ -1,5 +1,3 @@
-package org.example;
-
 public class Car implements Identifiable<Integer> {
     private String manufacturer, model;
     private int year;
